@@ -7,6 +7,8 @@ Developed in PHP , a basic Website that handles and stores student as well as co
 
 Well structured backend but will work on the front-end soon.
 Find the code in the PHP-code branch
+![dfd2](https://user-images.githubusercontent.com/43877199/119169675-ef19f200-ba7f-11eb-8b98-3bced613dda7.PNG)
+
 
 When campus placements are conducted, information of candidates is provided to the companies
 visiting the campus. As a lot of information has to be provided like personal details of candidates,
