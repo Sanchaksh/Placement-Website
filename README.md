@@ -21,3 +21,4 @@ date information of all the candidates to the companies and administration. It i
 easy to use.
 
 ## Complete Documentation with Software Specification Requirement can be found on the link below:
+https://drive.google.com/file/d/1-y4QVDUlCMZoCN2gltIIIOCp4qsTY-vq/view?usp=sharing
