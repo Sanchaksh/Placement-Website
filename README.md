@@ -19,3 +19,5 @@ difficult to know that which companies they are eligible for.
 Placement management for candidates and companies is a system that provides secure and up to
 date information of all the candidates to the companies and administration. It is versatile and very
 easy to use.
+
+## Complete Documentation with Software Specification Requirement can be found on the link below:
