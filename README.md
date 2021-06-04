@@ -1,6 +1,7 @@
 # Placement-Website
 
-Server used Apache on XAMPP and MySQL as the database
+Server used Apache on XAMPP and MySQL as the database.
+<br>
 ![uc](https://user-images.githubusercontent.com/43877199/119169717-f93bf080-ba7f-11eb-8d55-26dc51d2178a.PNG)
 
 [Download XAMPP here.](https://www.apachefriends.org/download.html)
@@ -8,6 +9,7 @@ Server used Apache on XAMPP and MySQL as the database
 Developed in PHP , a basic Website that handles and stores student as well as company data for which the students can apply as well as the the list of eligible candidates.
 
 Well structured backend but will work on the front-end soon.
+<br>
 Find the code in the PHP-code branch
 <br>
 ![dfd2](https://user-images.githubusercontent.com/43877199/119169675-ef19f200-ba7f-11eb-8b98-3bced613dda7.PNG)
