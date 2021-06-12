@@ -1,4 +1,4 @@
-# Placement-Website
+# Placement-Management-Website
 
 Server used Apache on XAMPP and MySQL as the database.
 
