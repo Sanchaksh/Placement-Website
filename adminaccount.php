@@ -8,7 +8,7 @@
 
 <?php
 	session_start();
-	if(isset($_SESSION["id"]))
+	if(isset($_SESSION["ano"]))
 	{
 		?>
 <a href="addcompany.php">Click here to register a company</a><br><br>
