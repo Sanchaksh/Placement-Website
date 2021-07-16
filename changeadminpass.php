@@ -12,14 +12,14 @@
 if(isset($_REQUEST["b1"]))
 {
 	session_start();
-	$i=$_SESSION["id"];
+	$i=$_SESSION["ano"];
 	
 	$pass=$_REQUEST["t2"];	
 	
-	$q="update tbadmin set password = '$pass' where id =$i";
+	$q="update tbadmin set password = '$pass' where ano =$i";
 
-	$db=mysqli_connect("localhost","root","");
-	mysqli_select_db($db,"finalproject");
+	$db=mysqli_connect("localhost","id17226305_final","y~U~-eV1XEC6ApMK");
+	mysqli_select_db($db,"id17226305_finalproject");
 	mysqli_query($db,$q);
 }
 if(isset($_REQUEST["b2"]))
