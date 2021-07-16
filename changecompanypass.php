@@ -18,8 +18,8 @@ if(isset($_REQUEST["b1"]))
 	
 	$q="update tbcompany set password = '$pass' where id =$i";
 
-	$db=mysqli_connect("localhost","root","");
-	mysqli_select_db($db,"finalproject");
+	$db=mysqli_connect("localhost","id17226305_final","y~U~-eV1XEC6ApMK");
+	mysqli_select_db($db,"id17226305_finalproject");
 	mysqli_query($db,$q);
 }
 if(isset($_REQUEST["b2"]))
