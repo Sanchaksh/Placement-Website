@@ -4,6 +4,8 @@
 
 Server used Apache on XAMPP and MySQL as the database. You can use server of your choice.
 
+Added Frontend!
+
 ![uc](https://user-images.githubusercontent.com/43877199/119169717-f93bf080-ba7f-11eb-8d55-26dc51d2178a.PNG)
 
 [Download XAMPP here.](https://www.apachefriends.org/download.html)
