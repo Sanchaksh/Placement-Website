@@ -1,6 +1,6 @@
 # Placement-Management-Website
 
-## To see the Website: www.placewebs.tk
+## To see the Website: www.placewebs. 
 
 Server used Apache on XAMPP and MySQL as the database. You can use server of your choice.
 
